@@ -3,7 +3,8 @@
 
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRDj-Sl9AY15eDJtG-OhL5yBmGBU4nIkZ8tA&usqp=CAU">
 
-<p align="left"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1J3UQt_s4zrztJkg4iRA37&ust=1696053746648000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCID8ha2zz4EDFQAAAAAdAAAAABAd" /> </p>
+<p align="left"> <img src="![image](https://github.com/YamrajOfCodes/YamrajOfCodes/assets/146088477/941f4c39-e981-4678-82e1-d1b51df37717)
+" /> </p>
 
 - 📝 I regularly write articles on Twitter(X) [https://twitter.com/Kundanp82985546?t=bezGuqYl0l2rYQPABwe__g&s=08](https://twitter.com/Kundanp82985546?t=bezGuqYl0l2rYQPABwe__g&s=08)
 
