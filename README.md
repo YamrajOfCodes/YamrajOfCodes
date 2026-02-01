@@ -62,5 +62,3 @@
 
 ---
 
-### 🐍 Contribution Snake
-![snake gif](https://github.com/yamrajofcodes/yamrajofcodes/blob/output/github-contribution-grid-snake.svg)
