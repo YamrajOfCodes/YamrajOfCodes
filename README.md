@@ -2,10 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20&text=Kundan%20Patil&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%C2%B7%20MERN%20%C2%B7%20India&descAlignY=55&descSize=16" width="100%"/>
 
-<img src="https://komarev.com/ghpvc/?username=yamrajofcodes&label=Profile%20Views&color=58a6ff&style=flat-square" />&nbsp;
-<img src="https://img.shields.io/github/followers/yamrajofcodes?label=Followers&style=flat-square&color=58a6ff" />&nbsp;
-<img src="https://img.shields.io/badge/dynamic/json?color=58a6ff&style=flat-square&label=Repos&query=public_repos&url=https://api.github.com/users/yamrajofcodes" />
-
 </div>
 
 <br/>
