@@ -14,7 +14,6 @@ name:      Kundan Patil
 role:      Full-Stack Developer (MERN)
 day_job:   HCLTech
 building:  StayNest — a hostel management SaaS, on the side
-believes:  "shipped beats perfect"
 ```
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=520&lines=React+%2B+Node.js+%2B+MongoDB;Debugging+at+2AM%2C+shipping+by+morning;Currently%3A+leveling+up+system+design;Always+open+to+a+good+tech+conversation" alt="Typing SVG" />
